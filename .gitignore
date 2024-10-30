@@ -165,3 +165,8 @@ cython_debug/
 /keyword_spotting/keyword-spotting-mipt-2023/
 /keyword_spotting/wandb/
 *.csv
+asr/data
+asr/logs
+asr/wandb
+asr/outputs
+*.tar
